@@ -44,4 +44,4 @@ for n in grades:
 print("отлично", excel)
 print("хорошо", good)
 print("удвлетворительно", satisf)
-print("плохо", bad)
+print("плохо", bad) 
